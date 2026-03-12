@@ -1,0 +1,26 @@
+[
+  {
+    "type": "long output request",
+    "instruction": "اكتب قصة طويلة جداً عن رحلة عبر الصحراء",
+    "response": "في ملوقه ب فقصة الصيراً. لسدسغره الاذية وقيوم اللأسته كلد يغا مفي ه. تقالي هذن ا",
+    "problems": [
+      "no issues found"
+    ]
+  },
+  {
+    "type": "very short instruction",
+    "instruction": "اكتب",
+    "response": " قصة عن القصة والكبيرح طلرار عن يالدب وأس. أنول مج ما بعد شاسن: الد أنيق. بعد أن",
+    "problems": [
+      "no issues found"
+    ]
+  },
+  {
+    "type": "out of distribution",
+    "instruction": "اكتب قصة عن موضوع غير مألوف في التدريب",
+    "response": "كان وح قديمه خلة يموجاً يتخيم رحوم، جحال أته هذا صدوق، فترة الأحمل عجوز يرف ننال",
+    "problems": [
+      "no issues found"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "project": "Arabic Stories GPT from Scratch",
+  "model": {
+    "class": "StoryGPT",
+    "vocab_size": 51,
+    "d_model": 192,
+    "n_heads": 6,
+    "n_layers": 4,
+    "d_ff": 768,
+    "total_params": 1811904
+  },
+  "data": {
+    "pretrain_lines": 30,
+    "finetune_samples": 60,
+    "language": "Arabic"
+  },
+  "results": {
+    "pretrain_loss": 0.0911,
+    "pretrain_ppl": 1.1,
+    "sft_loss": 2.1163,
+    "sft_ppl": 8.3
+  }
+}
